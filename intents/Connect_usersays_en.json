@@ -1,0 +1,173 @@
+[
+  {
+    "id": "e6de85ab-dbc6-4bf9-b23b-c067b2565d8f",
+    "data": [
+      {
+        "text": "blue",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "alias": "animal",
+        "meta": "@animal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "radio",
+        "alias": "appliance",
+        "meta": "@appliance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b8fced0-d22e-4ab5-8d02-144b6fe05ef4",
+    "data": [
+      {
+        "text": "connect ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " code ",
+        "userDefined": false
+      },
+      {
+        "text": "yellow",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "panther",
+        "alias": "animal",
+        "meta": "@animal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cabinet",
+        "alias": "appliance",
+        "meta": "@appliance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "945ac1d5-8fe9-423d-b906-73e7d90c2c69",
+    "data": [
+      {
+        "text": "connect ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "purple",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken",
+        "alias": "animal",
+        "meta": "@animal",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cabinet",
+        "alias": "appliance",
+        "meta": "@appliance",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f997c6ab-63df-4c96-b761-cf1b066d0604",
+    "data": [
+      {
+        "text": "connect to ",
+        "userDefined": false
+      },
+      {
+        "text": "code",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "black",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "slug",
+        "alias": "animal",
+        "meta": "@animal",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dishwasher",
+        "alias": "appliance",
+        "meta": "@appliance",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

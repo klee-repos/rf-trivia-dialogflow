@@ -1,0 +1,54 @@
+{
+  "id": "5a2861d4-3605-4caa-a401-7613875a1ad9",
+  "name": "Connect",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "connect",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f7181785-44ae-4372-ba7a-2956a78ae316",
+          "required": true,
+          "dataType": "@sys.color",
+          "name": "color",
+          "value": "$color",
+          "isList": false
+        },
+        {
+          "id": "fcae3455-8fd7-4033-bf1b-580fdd8b13b9",
+          "required": true,
+          "dataType": "@animal",
+          "name": "animal",
+          "value": "$animal",
+          "isList": false
+        },
+        {
+          "id": "fe2a847c-6d91-4e72-84c2-e0da9c74fe35",
+          "required": true,
+          "dataType": "@appliance",
+          "name": "appliance",
+          "value": "$appliance",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514518548,
+  "fallbackIntent": false,
+  "events": []
+}

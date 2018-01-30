@@ -1,0 +1,74 @@
+{
+  "description": "",
+  "language": "en",
+  "disableInteractionLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "trivia-df1da",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "5a2861d4-3605-4caa-a401-7613875a1ad9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "52c946f1-1c1f-420f-8ab0-6f3c0df40348",
+        "signInRequired": false
+      },
+      {
+        "intentId": "10299be2-19a7-4d0f-8576-cee53df60037",
+        "signInRequired": false
+      },
+      {
+        "intentId": "59c5cedd-0d1e-43c0-951e-4aeee260af81",
+        "signInRequired": false
+      },
+      {
+        "intentId": "8f899134-80d8-4e2b-8382-2468a3c0d0c5",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e18fb546-24a7-4593-8908-bcb04b7be529",
+        "signInRequired": false
+      },
+      {
+        "intentId": "2fc67f67-b617-40fd-b831-ed7bb49cc9d1",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e82e8630-d68b-4764-a089-cf966681941c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "8944e365-321e-4071-b0e5-7f1ae6466c56",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true
+  },
+  "defaultTimezone": "America/Los_Angeles",
+  "webhook": {
+    "url": "https://refresh-trivia-app.herokuapp.com/gAssistant",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": false
+}

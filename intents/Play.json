@@ -1,0 +1,29 @@
+{
+  "id": "2fc67f67-b617-40fd-b831-ed7bb49cc9d1",
+  "name": "Play",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "play",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516074103,
+  "fallbackIntent": false,
+  "events": []
+}

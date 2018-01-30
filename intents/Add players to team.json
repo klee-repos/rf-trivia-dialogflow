@@ -1,0 +1,47 @@
+{
+  "id": "10299be2-19a7-4d0f-8576-cee53df60037",
+  "name": "Add players to team",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "addPlayersToTeam",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cfd7fccc-7eea-431b-8b96-5a9196db3dd9",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "names",
+          "value": "$names",
+          "prompts": [],
+          "isList": true
+        },
+        {
+          "id": "8441b6cd-16e3-44b7-a9d6-fa18668051c6",
+          "required": true,
+          "dataType": "@teamName",
+          "name": "teamName",
+          "value": "$teamName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515033268,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "c6ac5ea7-fbce-43b1-a4a6-b0b5edd10c31",
+  "name": "Guess",
+  "auto": true,
+  "contexts": [
+    "guess"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "guess",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a8c036fa-b72e-4615-82c0-f5dc89fcac53",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "guess",
+          "value": "$guess",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Did not receive a guess."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514406647,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "a1898f0f-7906-41cf-8465-090a48c036c9",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "kevin",
+        "alias": "names",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " from team ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "teamName",
+        "meta": "@teamName",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515549303
+  },
+  {
+    "id": "829a9d15-ee76-47dd-9b20-61bf133e5fa6",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "kevin",
+        "alias": "names",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "gavin",
+        "alias": "names",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " from team ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "teamName",
+        "meta": "@teamName",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515549303
+  }
+]

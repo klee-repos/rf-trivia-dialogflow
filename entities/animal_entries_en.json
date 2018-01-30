@@ -1,0 +1,338 @@
+[
+  {
+    "value": "slug",
+    "synonyms": [
+      "slug"
+    ]
+  },
+  {
+    "value": "monkey",
+    "synonyms": [
+      "monkey"
+    ]
+  },
+  {
+    "value": "dog",
+    "synonyms": [
+      "dog"
+    ]
+  },
+  {
+    "value": "horse",
+    "synonyms": [
+      "horse"
+    ]
+  },
+  {
+    "value": "zebra",
+    "synonyms": [
+      "zebra"
+    ]
+  },
+  {
+    "value": "sloth",
+    "synonyms": [
+      "sloth"
+    ]
+  },
+  {
+    "value": "cat",
+    "synonyms": [
+      "cat"
+    ]
+  },
+  {
+    "value": "hummingbird",
+    "synonyms": [
+      "hummingbird"
+    ]
+  },
+  {
+    "value": "parrot",
+    "synonyms": [
+      "parrot"
+    ]
+  },
+  {
+    "value": "goose",
+    "synonyms": [
+      "goose"
+    ]
+  },
+  {
+    "value": "slug",
+    "synonyms": [
+      "slug"
+    ]
+  },
+  {
+    "value": "spider",
+    "synonyms": [
+      "spider"
+    ]
+  },
+  {
+    "value": "tarantula",
+    "synonyms": [
+      "tarantula"
+    ]
+  },
+  {
+    "value": "lion",
+    "synonyms": [
+      "lion"
+    ]
+  },
+  {
+    "value": "cheetah",
+    "synonyms": [
+      "cheetah"
+    ]
+  },
+  {
+    "value": "jaguar",
+    "synonyms": [
+      "jaguar"
+    ]
+  },
+  {
+    "value": "panther",
+    "synonyms": [
+      "panther"
+    ]
+  },
+  {
+    "value": "puma",
+    "synonyms": [
+      "puma"
+    ]
+  },
+  {
+    "value": "ocelot",
+    "synonyms": [
+      "ocelot"
+    ]
+  },
+  {
+    "value": "grouse",
+    "synonyms": [
+      "grouse"
+    ]
+  },
+  {
+    "value": "hen",
+    "synonyms": [
+      "hen"
+    ]
+  },
+  {
+    "value": "rooster",
+    "synonyms": [
+      "rooster"
+    ]
+  },
+  {
+    "value": "chicken",
+    "synonyms": [
+      "chicken"
+    ]
+  },
+  {
+    "value": "penguin",
+    "synonyms": [
+      "penguin"
+    ]
+  },
+  {
+    "value": "salmon",
+    "synonyms": [
+      "salmon"
+    ]
+  },
+  {
+    "value": "tuna",
+    "synonyms": [
+      "tuna"
+    ]
+  },
+  {
+    "value": "sparrow",
+    "synonyms": [
+      "sparrow"
+    ]
+  },
+  {
+    "value": "pigeon",
+    "synonyms": [
+      "pigeon"
+    ]
+  },
+  {
+    "value": "ferret",
+    "synonyms": [
+      "ferret"
+    ]
+  },
+  {
+    "value": "alligator",
+    "synonyms": [
+      "alligator"
+    ]
+  },
+  {
+    "value": "anteater",
+    "synonyms": [
+      "anteater"
+    ]
+  },
+  {
+    "value": "armadillo",
+    "synonyms": [
+      "armadillo"
+    ]
+  },
+  {
+    "value": "baboon",
+    "synonyms": [
+      "baboon"
+    ]
+  },
+  {
+    "value": "badger",
+    "synonyms": [
+      "badger"
+    ]
+  },
+  {
+    "value": "barracuda",
+    "synonyms": [
+      "barracuda"
+    ]
+  },
+  {
+    "value": "bat",
+    "synonyms": [
+      "bat"
+    ]
+  },
+  {
+    "value": "bee",
+    "synonyms": [
+      "bee"
+    ]
+  },
+  {
+    "value": "butterfly",
+    "synonyms": [
+      "butterfly"
+    ]
+  },
+  {
+    "value": "camel",
+    "synonyms": [
+      "camel"
+    ]
+  },
+  {
+    "value": "buffalo",
+    "synonyms": [
+      "buffalo"
+    ]
+  },
+  {
+    "value": "crocodile",
+    "synonyms": [
+      "crocodile"
+    ]
+  },
+  {
+    "value": "duck",
+    "synonyms": [
+      "duck"
+    ]
+  },
+  {
+    "value": "elephant",
+    "synonyms": [
+      "elephant"
+    ]
+  },
+  {
+    "value": "fox",
+    "synonyms": [
+      "fox"
+    ]
+  },
+  {
+    "value": "coyote",
+    "synonyms": [
+      "coyote"
+    ]
+  },
+  {
+    "value": "gazelle",
+    "synonyms": [
+      "gazelle"
+    ]
+  },
+  {
+    "value": "gorilla",
+    "synonyms": [
+      "gorilla"
+    ]
+  },
+  {
+    "value": "hamster",
+    "synonyms": [
+      "hamster"
+    ]
+  },
+  {
+    "value": "rabbit",
+    "synonyms": [
+      "rabbit"
+    ]
+  },
+  {
+    "value": "jellyfish",
+    "synonyms": [
+      "jellyfish"
+    ]
+  },
+  {
+    "value": "emu",
+    "synonyms": [
+      "emu"
+    ]
+  },
+  {
+    "value": "lobster",
+    "synonyms": [
+      "lobster"
+    ]
+  },
+  {
+    "value": "crab",
+    "synonyms": [
+      "crab"
+    ]
+  },
+  {
+    "value": "squid",
+    "synonyms": [
+      "squid"
+    ]
+  },
+  {
+    "value": "anglerfish",
+    "synonyms": [
+      "anglerfish"
+    ]
+  },
+  {
+    "value": "sponge",
+    "synonyms": [
+      "sponge"
+    ]
+  }
+]

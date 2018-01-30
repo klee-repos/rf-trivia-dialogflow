@@ -1,0 +1,18 @@
+[
+  {
+    "value": "one",
+    "synonyms": [
+      "one",
+      "1",
+      "won"
+    ]
+  },
+  {
+    "value": "two",
+    "synonyms": [
+      "two",
+      "2",
+      "to"
+    ]
+  }
+]

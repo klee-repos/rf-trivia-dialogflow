@@ -1,0 +1,102 @@
+[
+  {
+    "id": "d89ed4cc-a69a-4730-9791-8610f577ef4d",
+    "data": [
+      {
+        "text": "bank ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " coins",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c650b28c-390c-4d2d-a85c-333db77b3266",
+    "data": [
+      {
+        "text": "bank ",
+        "userDefined": false
+      },
+      {
+        "text": "200",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5afc053-d2a5-416d-b8e0-ae8d26f9fd64",
+    "data": [
+      {
+        "text": "bank points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516074130
+  },
+  {
+    "id": "ddedff9f-2ca2-4295-8f35-acdee1438279",
+    "data": [
+      {
+        "text": "bank my points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1516074130
+  },
+  {
+    "id": "3f17f3bc-3633-45d0-be56-c26c5bf1cd31",
+    "data": [
+      {
+        "text": "bank coins",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516074130
+  },
+  {
+    "id": "46a7d6bc-9291-4a6b-845c-c43c2d904207",
+    "data": [
+      {
+        "text": "bank coin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516074130
+  },
+  {
+    "id": "5d07af87-9c60-4234-b7c1-cec7bedd0de2",
+    "data": [
+      {
+        "text": "Bank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516074130
+  }
+]

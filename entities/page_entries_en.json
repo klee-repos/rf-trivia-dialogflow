@@ -1,0 +1,31 @@
+[
+  {
+    "value": "main menu",
+    "synonyms": [
+      "main menu",
+      "home",
+      "beginning"
+    ]
+  },
+  {
+    "value": "help",
+    "synonyms": [
+      "help"
+    ]
+  },
+  {
+    "value": "about",
+    "synonyms": [
+      "about"
+    ]
+  },
+  {
+    "value": "privacy",
+    "synonyms": [
+      "privacy",
+      "privacy policy",
+      "privacy details",
+      "privacy information"
+    ]
+  }
+]

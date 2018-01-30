@@ -1,0 +1,29 @@
+{
+  "id": "e18fb546-24a7-4593-8908-bcb04b7be529",
+  "name": "Go back",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "goBack",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515551035,
+  "fallbackIntent": false,
+  "events": []
+}

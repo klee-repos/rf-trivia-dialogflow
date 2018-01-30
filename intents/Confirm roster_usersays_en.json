@@ -1,0 +1,35 @@
+[
+  {
+    "id": "27eb114b-93e0-44cc-b9ba-db9f2df54741",
+    "data": [
+      {
+        "text": "start trivia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2b015ea-43d6-42c0-a588-3ad38c413e51",
+    "data": [
+      {
+        "text": "confirm teams",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18d328d7-c678-44f0-bb1a-af231a41b8c2",
+    "data": [
+      {
+        "text": "confirm roster",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

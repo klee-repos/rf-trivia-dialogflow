@@ -1,0 +1,38 @@
+{
+  "id": "8944e365-321e-4071-b0e5-7f1ae6466c56",
+  "name": "Go To",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "goTo",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "11c0c9f1-4b6d-46e0-94c0-39f9803cba3a",
+          "required": true,
+          "dataType": "@page",
+          "name": "page",
+          "value": "$page",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1517186084,
+  "fallbackIntent": false,
+  "events": []
+}

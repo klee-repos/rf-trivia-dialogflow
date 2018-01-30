@@ -1,0 +1,46 @@
+{
+  "id": "59c5cedd-0d1e-43c0-951e-4aeee260af81",
+  "name": "Remove players from team",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "removePlayersFromTeam",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e23ac36a-3768-456e-ba3d-4f983cf6b3f9",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "names",
+          "value": "$names",
+          "isList": true
+        },
+        {
+          "id": "42f020c2-4eeb-427d-9bb3-52af6c0df82b",
+          "required": true,
+          "dataType": "@teamName",
+          "name": "teamName",
+          "value": "$teamName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515549303,
+  "fallbackIntent": false,
+  "events": []
+}

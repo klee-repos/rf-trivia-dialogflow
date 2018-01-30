@@ -1,0 +1,35 @@
+[
+  {
+    "id": "a4fe94b2-2b61-4043-9a6f-a7b8d878f248",
+    "data": [
+      {
+        "text": "start new game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8636c6f9-4621-4616-b0c5-567c2f5bc4db",
+    "data": [
+      {
+        "text": "start game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "449c5a36-e371-4aa7-bdc8-c29148799bc5",
+    "data": [
+      {
+        "text": "create a new game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

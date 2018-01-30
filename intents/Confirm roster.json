@@ -1,0 +1,29 @@
+{
+  "id": "8f899134-80d8-4e2b-8382-2468a3c0d0c5",
+  "name": "Confirm roster",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "confirmRoster",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515710630,
+  "fallbackIntent": false,
+  "events": []
+}
